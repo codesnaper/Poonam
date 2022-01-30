@@ -1,0 +1,247 @@
+{
+  "info": {
+    "firstName": "Poonam",
+    "lastName": "Gupta",
+    "dob": "December 03",
+    "address": "Pune, India",
+    "email": "kpoonam03@gmail.com",
+    "phone": "+91-7387334252"
+  },
+  "header_name": [
+    {"name":"Home",
+      "id":"#home-section",
+      "display":true
+    },
+    {"name":"About",
+      "id":"#about-section",
+      "display":true
+    },
+    {"name":"Skill",
+      "id":"#skills-section",
+      "display":true
+    },
+    {"name":"Experience",
+      "id":"#resume-section",
+      "display":true
+    },
+    {"name":"Certification",
+      "id":"#services-section",
+      "display":true
+    },
+    {"name":"Blogs",
+      "id":"#",
+      "display":false
+    },
+    {"name":"Contact",
+      "id":"#contact-section",
+      "display":true
+    }],
+  "header": {
+    "about": true,
+    "experience": true,
+    "skills": true,
+    "certification": true,
+    "blog": false,
+    "contact": true
+  },
+  "introduction": {
+    "shortSummary": "I have total 9 years of working experience which include 5 years laboratory experience and  4 years as an educator. I am currently working as a teacher at WhitehatJr (Byjus Furture School) for teaching coding and maths for grade 7 onwards student",
+    "number_of_project_completed": "4",
+    "download_cv": "/Poonam-Resume.doc",
+    "cv_ctc_name": "Download CV",
+    "downloadFileName": "Poonam-Resume.doc"
+  },
+  "skill": {
+    "shortSummary": "I have acquired skill as a Lab researcher and educator.",
+    "no_skill_per_slide": 6,
+    "skills": [{
+        "skillName": "Java 8",
+        "weightage": "80%"
+      },
+      {
+        "skillName": "Java EE",
+        "weightage": "80%"
+      },
+      {
+        "skillName": "AWS",
+        "weightage": "85%"
+      },
+      {
+        "skillName": "Azure",
+        "weightage": "50%"
+      },
+      {
+        "skillName": "Spring",
+        "weightage": "80%"
+      },
+      {
+        "skillName": "Spring boot",
+        "weightage": "80%"
+      },
+      {
+        "skillName": "Hibernate",
+        "weightage": "60%"
+      },
+      {
+        "skillName": "Angular 6",
+        "weightage": "80%"
+      },
+      {
+        "skillName": "Vue JS",
+        "weightage": "90%"
+      },
+      {
+        "skillName": "Lit Element",
+        "weightage": "80%"
+      },
+      {
+        "skillName": "HTML 5",
+        "weightage": "70%"
+      },
+      {
+        "skillName": "CSS3",
+        "weightage": "60%"
+      },
+      {
+        "skillName": "Javascript",
+        "weightage": "80%"
+      },
+      {
+        "skillName": "Microservice",
+        "weightage": "80%"
+      }
+    ]
+  },
+  "experience": {
+    "shortSummary": "",
+    "exp": [{
+        "startYear": "Oct, 2018",
+        "endYear": "Current",
+        "title": "Open Domain e-commercial Banking website",
+        "subtitle": "Organization: Capgemini",
+        "intro": ["I worked as full-stack Java and frontend developer. I also developed infrastructure, deployment on the AWS cloud and I am also AWS Cloud developer and azure fundamental certified.",
+          "I also travelled to Europe for the short-term work permit. I worked in the agile team, which involved half of the team at onshore (Europe) and half of the team at the offshore part (India). I was also involved in the process of a DevOps journey"
+        ],
+        "more": true,
+        "skill": true,
+        "primaryCTC": "My Roles and skill in project",
+        "secondaryCTC": "Back to description",
+        "skillSection": ["AWS", "Azure", "Java", "Spring boot", "Spring cloud", "AWS", "Spring Rest", "Microservices", "Angular", "Vue js", "Lit Element", "Html 5", "CSS 3", "JavaScript", "SonarQube", "Hp Fortify", "Jenkin", "Tridion SDL 9.0."],
+        "backSection": [{
+          "title": "Roles and Responsibilities",
+          "intro": ["Developed on backend and frontend for Commercial Banking site",
+            "Written Aws cloudformation script and configuration for hosting the website on AWS",
+            "Written functional and non-functional test cases",
+            "Involved in DevOps Journey. Integrate and onboard quality check tool and controls for devops",
+            "Written Build script in Jenkin using grovy",
+            "Worked in Agile methodology",
+            "Worked with Tridion CMS tools",
+            "Written Unit testing and also ensure to meet proper bank coding standard."
+          ]
+        }]
+      },
+      {
+        "startYear": "Nov, 2017",
+        "endYear": "Oct, 2018",
+        "title": "Health Insurance Project",
+        "subtitle": "Organization: Posidex Technology",
+        "intro": ["I worked in a project as a full stack Java and frontend developer role. The project is onto health insurance domain. In this project it analyzed the claim amount from the past claim data of customer and assign it to auditor. There was a dashboard where the auditor will login and will see their claim which is allocated for their approval."],
+        "more": true,
+        "skill": true,
+        "primaryCTC": "My Roles and skill in project",
+        "secondaryCTC": "Back to description",
+        "skillSection": ["Java", "Spring boot", "Python script", "Spring JPA", "Angular", "Typescript", "Junit", "Mockito", "Karma", "Javascript", "Typescript", "HTML 5", "CSS 3"],
+        "backSection": [{
+          "title": "Roles and Responsibilities",
+          "intro": ["Worked on the security layer of application and user management level. ",
+            "Develop the business logic with Apache CXF restful service and java",
+            "Develop the front end using angular ",
+            "Written python script for loading data and pass to modal",
+            "Involved in gathering the requirements, designing, development and testing ",
+            "Completely involved in the requirement analysis phase. ",
+            "Fixes the bug raised by testing team."
+          ]
+        }]
+      },
+      {
+        "startYear": "Dec, 2016",
+        "endYear": "Sept, 2017",
+        "title": "Retail Banking Loan Project",
+        "subtitle": "Organization: Posidex Technology",
+        "intro": ["I worked in a project as a full stack Java and frontend developer role. The project is onto retail banking . In this project it group the cluster of customer record using CRN for loan. So for a differnet multipl loan there will be a multiple new CRN  assign to customer, so base on cluster rule using demographic informationt the product cluster them into single main CRN and shown to customer."],
+        "more": true,
+        "skill": true,
+        "primaryCTC": "My Roles and skill in project",
+        "secondaryCTC": "Back to description",
+        "skillSection": ["Java", "Tomcat", "Spring", "Spring Boot", "Spring MVC", "Spring JDBC", "ActiveMQ", "Ant", "Junit", "Log4j", "Oracle queries", "Oracle Server PL/SQL programming language"],
+        "backSection": [{
+          "title": "Roles and Responsibilities",
+          "intro": ["Written the Procedure and trigger for oracle server",
+            "Work with spring core, spring JDBC and spring transaction and Java programming as a business logic for developing the module",
+            "Work on JMS (ActiveMQ) for sending the message to service",
+            "Written the test cases using JUnit. ",
+            "Involved in gathering the requirements, designing, development and testing",
+            "Prepare the queries and script file ",
+            "Involved in deployment the patch to UAT server.",
+            "Provided the support for UAT server"
+          ]
+        }]
+      },
+      {
+        "startYear": "Jun, 2015",
+        "endYear": "March, 2016",
+        "title": "Home automation using speech recognition with Raspberry Pi",
+        "subtitle": "College Project",
+        "intro": ["In this project, we will implement android application that helps user to control various home appliances using android GUI and speech. The purpose of android application is to ease the control of home appliances and save the electricity",
+          "Specifically, in this project Raspberry pie act as an intermediate between android application and sensor, relays which control the operation of appliances. The connectivity between android application and Redberry pie is done through Wi-Fi."
+        ],
+        "more": false,
+        "skill": true,
+        "primaryCTC": "My Roles and skill in project",
+        "secondaryCTC": "Back to description",
+        "skillSection": ["Android","Sensor","Raspberry pie","Java","Linux Scripting"],
+        "backSection": [{
+          "title": "Roles and Responsibilities",
+          "intro": ["Written the Procedure and trigger for oracle server",
+            "Work with spring core, spring JDBC and spring transaction and Java programming as a business logic for developing the module",
+            "Work on JMS (ActiveMQ) for sending the message to service",
+            "Written the test cases using JUnit. ",
+            "Involved in gathering the requirements, designing, development and testing",
+            "Prepare the queries and script file ",
+            "Involved in deployment the patch to UAT server.",
+            "Provided the support for UAT server"
+          ]
+        }]
+      }
+    ]
+  },
+  "certification": [{
+    "badgeurl": "image/aws-developer.png",
+    "badgealt": "AWS Developer",
+    "display": "AWS associate Developer Certified",
+    "url": "https://www.youracclaim.com/badges/e6b189e6-29f1-4b08-9a72-d087d9986a14/public_url",
+    "iframe": false,
+    "iframeValue": "<div data-iframe-width=\"150\" data-iframe-height=\"270\" data-share-badge-id=\"e6b189e6-29f1-4b08-9a72-d087d9986a14\" data-share-badge-host=\"https:\/\/www.youracclaim.com\"><\/div>"
+  }, {
+    "badgeurl": "image/azure-fundamental.png",
+    "badgealt": "Microsoft Certified: Azure Fundamentals",
+    "display": "Microsoft Certified: Azure Fundamentals",
+    "url": "https://www.youracclaim.com/badges/930a5509-d482-4508-b6ac-f351987942f3/public_url",
+    "iframe": false
+  }],
+  "website": [{
+      "url": "https://github.com/codesnaper",
+      "display": "Github Profile"
+    },
+    {
+      "url": "https://www.linkedin.com/in/shubham-khandelwal1910",
+      "display": "LinkedIn Profile"
+    },
+    {
+      "url": "https://www.interviewbit.com/profile/shubham-khandelwal_815",
+      "display": "InterviewBit Profile"
+    }
+  ],
+  "errorMailMessage": "There was error while sending the message. You can contact me on +91-9970440296 or via email.",
+  "successMailMessage": "Message Sent Succssfully."
+}
